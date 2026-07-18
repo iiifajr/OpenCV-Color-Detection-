@@ -27,7 +27,7 @@ The underlying image processing framework executes through a structured mathemat
 
 ## 👥 Engineering Curation & Metadata
 
-* **Lead Vision Engineer:** Eng. Fajr Al-Otaibi
+* **Lead Vision Engineer:** Eng. Fajr Al-Dajani
 * **Training Program:** Smart Methods Training Program
 * **Core Technology Suite:** Python 3.x | OpenCV (`cv2`) | NumPy (`np`)
 * **Status:** Verified Production Build & Fully Deployed 🚀🏆🏁
